@@ -40,4 +40,13 @@ Junior Game Designer and Front End Developer Living in Israel.<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="firebase" style="width: 35px; height: 35px;">
 </div>
 <br>
-Let's collaborate and build something amazing together! 😄🚀👨‍💻
+
+## Please check out some of my projects!
+### Game Design
+[Slappy Bear](https://github.com/MuliMaor/SlappyBear)<br>
+[Mini Muncher](https://github.com/MuliMaor/Mini-Muncher)<br>
+[Zenith Wheel](https://www.newgrounds.com/portal/view/700066)
+
+### Software Development
+[Tic-Tac-Toe Web App](https://github.com/MuliMaor/React-Tic-Tac-Toe)<br>
+[React Information Web App](https://github.com/MuliMaor/React-Info-Website)
