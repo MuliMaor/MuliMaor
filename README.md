@@ -37,7 +37,7 @@ Junior Game Designer and Front End Developer Living in Israel.<br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" style="width: 35px; height: 35px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" style="width: 35px; height: 35px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" style="width: 35px; height: 35px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="firebase" style="width: 35px; height: 35px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="phötoshop" style="width: 35px; height: 35px;">
 </div>
 <br>
 
