@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><strong>Hi there! My name is Muli Maor 👨‍💻</strong></h1>
+  <h1><strong>Muli Maor - Software Developer / Game Designer 👨‍💻</strong></h1>
 </div>
 
 <div id="header" align="center">
@@ -13,7 +13,7 @@
  
 
 ## About Me:
-Junior Game Designer and Front End Developer Living in Israel.<br>
+Hi! i am a Junior Game Designer and Front End Developer living in Israel.<br>
 
 💭 My greatest passion is imagining new ideas and using clever design to give users the most immersive experience.
 
