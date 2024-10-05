@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><strong>Muli Maor - Software Developer / Game Designer 👨‍💻</strong></h1>
+  <h1><strong>Muli Maor - Game Developer / Software Developer 👨‍💻</strong></h1>
 </div>
 
 <div id="header" align="center">
@@ -43,6 +43,8 @@ Hi! i am a Junior Game Designer and Front End Developer living in Israel.<br>
 
 ## Please check out some of my projects!
 ### Game Design
+[Muli Finds a Job](https://muli-maor.itch.io/muli-finds-a-job)<br>
+[RGB Run](https://muli-maor.itch.io/rgb-run)<br>
 [Slappy Bear](https://github.com/MuliMaor/SlappyBear)<br>
 [Mini Muncher](https://github.com/MuliMaor/Mini-Muncher)<br>
 [Zenith Wheel](https://www.newgrounds.com/portal/view/700066)
