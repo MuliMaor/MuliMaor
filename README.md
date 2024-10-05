@@ -13,7 +13,7 @@
  
 
 ## About Me:
-Hi! i am a Junior Game Designer and Front End Developer living in Israel.<br>
+Hi! i am a Game Developer and Front End Developer living in Israel.<br>
 
 💭 My greatest passion is imagining new ideas and using clever design to give users the most immersive experience.
 
