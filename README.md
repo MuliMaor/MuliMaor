@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><strong>Muli Maor - Game Developer / Software Developer 👨‍💻</strong></h1>
+  <h1><strong>Muli Maor - Technical Writer / QA Engineer 👨‍💻</strong></h1>
 </div>
 
 <div id="header" align="center">
@@ -13,13 +13,9 @@
  
 
 ## About Me:
-Hi! I am a Game Developer and Front End Developer living in Israel.<br>
+Hi! I am a Technical Writer and QA Engineer living in Israel.<br>
 
 💭 My greatest passion is imagining new ideas and using clever design to give users the most immersive experience.
-
-⚛️ I’m currently self learning **React**
-
-🔭 And working on such projects as [My Tic-Tac-Toe Web App](https://github.com/MuliMaor/React-Tic-Tac-Toe)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div style="display: flex; align-items: center;">
