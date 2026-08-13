@@ -13,7 +13,7 @@
  
 
 ## About Me:
-Hi! i am a Game Developer and Front End Developer living in Israel.<br>
+Hi! I am a Game Developer and Front End Developer living in Israel.<br>
 
 💭 My greatest passion is imagining new ideas and using clever design to give users the most immersive experience.
 
@@ -32,11 +32,6 @@ Hi! i am a Game Developer and Front End Developer living in Israel.<br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="width: 35px; height: 35px;">
 <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="width: 35px; height: 35px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="width: 35px; height: 35px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width: 35px; height: 35px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" style="width: 35px; height: 35px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" style="width: 35px; height: 35px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" style="width: 35px; height: 35px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" alt="phötoshop" style="width: 35px; height: 35px;">
 </div>
 <br>
